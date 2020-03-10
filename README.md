@@ -10,7 +10,7 @@
 
 ## The Three Tracks
 <p align="center">
-  <img src="./img/btest_combined.jpg" width="800">
+  <img src="./img/btest_combined1.jpg" width="800">
 </p>
 
 ## Posts & Blogs
